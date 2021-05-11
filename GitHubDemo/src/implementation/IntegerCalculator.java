@@ -2,6 +2,12 @@ package implementation;
 
 import util.Calculator;
 
+/**
+ * Integer Calculator
+ * Implementation of Generic Calculator
+ * 
+ * @author Dhiren
+ */
 public class IntegerCalculator implements Calculator<Integer> {
 	
 	@Override
