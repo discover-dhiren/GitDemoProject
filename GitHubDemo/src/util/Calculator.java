@@ -1,5 +1,12 @@
 package util;
 
+/**
+ * Generic Calculator Interface
+ * 
+ * @author Team Lead
+ *
+ * @param <K> Generic Type Argument
+ */
 public interface Calculator<K> {
 
 	public K add(K num1, K num2);
