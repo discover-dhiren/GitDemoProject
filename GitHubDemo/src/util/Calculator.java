@@ -8,7 +8,7 @@ package util;
  * @param <K> Generic Type Argument
  */
 public interface Calculator<K> {
-
+	
 	public K add(K num1, K num2);
 	
 	public K subtract(K num1, K num2);
